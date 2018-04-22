@@ -11,5 +11,3 @@ This spring boot application aims to solve the type of puzzle where the challeng
 	dog
   
 The objective of this kata is to write a program that accepts start and end words and, using words from the dictionary, builds a word chain between them. For added programming fun, return the shortest word chain that solves each puzzle. For example, you can turn “lead” into “gold” in four steps (lead, load, goad, gold), and “ruby” into “code” in six steps (ruby, rubs, robs, rods, rode, code).
-
-Once your code works, try timing it. Does it take less than a second for the above examples given a decent-sized word list? And is the timing the same forwards and backwards (so “lead” into “gold” takes the same time as “gold” into “lead”)?
